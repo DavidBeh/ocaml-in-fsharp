@@ -1,4 +1,6 @@
-﻿# Workflow
+Lade die .NET-SDK hier herunter: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+ 
+ # Workflow
 
 * Ocaml Code in das F#-Projekt (z.B. in Assignment.ml) kopieren.
 * Code mit Jetbrains Rider bearbeiten und Testen (in Program.fs oder mit F# Interactive)
